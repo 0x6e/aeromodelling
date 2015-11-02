@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310mm"
+   height="70mm"
+   viewBox="0 0 310.00002 70.000003"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="i-tip.svg">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NX-1 Wing Section I - Tip</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview60"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="249.12579"
+     inkscape:cy="-52.461186"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:document-units="mm" />
+  <title
+     id="title4">NX-1 Wing Section I - Tip</title>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5023"
+     width="299.7247"
+     height="49.006908"
+     x="5.137671"
+     y="16.801865" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 5.000022,41.305318 299.999998,0"
+     id="path6881"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 202.94363,38.828738 -4.01943,-0.593421 -10.16,-1.509999 -10.16,-1.5 -10.16,-1.5 -10.16,-1.5 -10.16,-1.43 -10.16,-1.319998 -10.16,-1.150002 -10.16,-0.959999 -10.16,-0.72 -10.160001,-0.45 -10.160004,-0.120001 -10.16,0.23 -10.16,0.589999 -10.15999,0.960002 -10.160006,1.379999 -10.160002,1.92 -5.08,1.249999 -5.080001,1.550001 -5.080001,2.110001 -2.54,1.490001 -1.019999,0.809997 -0.500002,0.500002 -1.019999,2.440001 1.019999,2.439997 0.500002,0.500002 1.019999,0.81 2.54,1.489998 5.080001,2.110001 5.080001,1.550001 5.08,1.249999 10.160002,1.92 10.160006,1.379999 10.15999,0.960002 10.16,0.59 10.16,0.23 10.160004,-0.120001 10.160001,-0.450001 10.16,-0.72 10.16,-0.959998 10.16,-1.15 10.16,-1.320001 10.16,-1.43 10.16,-1.5 10.16,-1.5 10.16,-1.5 10.16,-1.509999 4.01947,-0.593426 z"
+     id="path7165"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:3.52777815px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="5.8720503"
+     y="20.561037"
+     id="text8095"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="5.8720503"
+       y="20.561037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"
+       id="tspan8286">NX-1 / V1 / SECTION-I / TIP</tspan><tspan
+       sodipodi:role="line"
+       x="5.8720503"
+       y="24.97076"
+       id="tspan8099"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier">NACA 63-015A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:3.52777815px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="56.325478"
+     y="40.413898"
+     id="text8095-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       x="56.325478"
+       y="40.413898"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier"
+       id="tspan8286-8">NX-1 / V1 / SECTION-I / TIP</tspan><tspan
+       sodipodi:role="line"
+       x="56.325478"
+       y="44.82362"
+       id="tspan8099-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier">NACA 63-015A</tspan></text>
+</svg>
